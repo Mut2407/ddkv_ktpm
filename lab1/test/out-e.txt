@@ -1,0 +1,1 @@
+nhap num1: nhap num2: nhap num3: - ket qua: 5
